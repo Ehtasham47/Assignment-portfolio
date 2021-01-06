@@ -1,0 +1,119 @@
+
+h1{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+}
+h2{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    color: dimgray;
+    font-family: 'Roboto', sans-serif;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.one-third-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding: 1%;
+    border-radius: 10px;
+}
+.project-area{
+    box-shadow: 10px 10px 40px lightgray;
+    border-radius: 10px;
+    height: 50%;
+    background-color: white;
+    margin-bottom: 3%;
+}
+.set-image{
+    width: 100%;
+    
+}
+.background{
+    background-color: whitesmoke;
+    
+}
+.text-align{
+    text-align: center;
+}
+
+#section-height{
+height: 700px;
+
+}
+.inquiry-area{
+    background-image: url("shapes/Group_33094_1.png");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    margin:200px 250px ;
+    height: 400px;
+    width: 1000px;
+    
+}
+.inquiry-area h2{
+    color: white;
+    padding-top:65px ;
+    padding-left: 40px;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+    
+
+}
+.inquiry-area-link{
+   font-size: 20px;
+   font-family: 'Roboto', sans-serif;
+   text-decoration: none;
+   margin-left: 350px;
+   margin-top: 200px;
+   color: white;
+   background-image: linear-gradient(45deg, lightsalmon,tomato);
+   padding: 10px 20px;
+   border-radius: 5px;
+
+}
+#gym{
+    border-bottom: 7px solid;
+    border-image: linear-gradient(45deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#agency{
+    border-bottom: 7px solid;
+    border-image: linear-gradient(45deg,cyan,blue);
+    border-image-slice: 1;
+}
+#music{
+    border-bottom: 7px solid;
+    border-image: linear-gradient(45deg,lightgreen,green);
+    border-image-slice: 1;
+}
+
